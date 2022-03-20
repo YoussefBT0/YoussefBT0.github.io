@@ -1,0 +1,62 @@
+.dropdown:hover .sous-menu{
+
+    position: absolute;
+    left: 106px;
+    display: block;
+    z-index: 1;
+    left: 127px;;
+
+
+}
+
+.menu,.dropdown{
+    list-style: none;
+    display: flex;
+    PADDING-BOTTOM: 6PX;
+}
+
+.dropdown:hover{
+    background-color: rgb(237 208 208);;
+}
+
+.menu:hover{
+
+    background-color: rgb(211 149 149);
+}
+
+body{
+
+    background-color: #e8e8e8;
+}
+
+h1{
+    color: grey;
+    border-bottom:1px solid black ;
+    margin: initial;
+}
+
+.flex{
+    display: flex;
+
+}
+
+nav{
+    border-right: 1px solid black;
+    width: 28%;
+}
+
+
+
+
+.sous-menu{
+    display: none;
+}
+
+section{
+    padding-left: 84px;
+}
+
+p{
+
+    COLOR: #c7c7c7;
+}
